@@ -1,1 +1,1 @@
-# tanzu-pipelines
+# tanzu-platform-automation
